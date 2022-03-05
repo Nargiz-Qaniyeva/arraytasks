@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.exe
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.deps.json
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.runtimeconfig.json
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.dll
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\bin\Debug\netcoreapp3.1\ConsoleTask.pdb
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.AssemblyInfo.cs
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.dll
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.pdb
+C:\Users\nargi\Desktop\aztucd\ConsoleTask\ConsoleTask\obj\Debug\netcoreapp3.1\ConsoleTask.genruntimeconfig.cache
